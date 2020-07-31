@@ -217,7 +217,7 @@ blocks:
     bus_structure: null
     coordinate: [1595, 83]
     rotation: 0
-    state: disabled
+    state: enabled
 - name: h
   id: variable
   parameters:
@@ -229,7 +229,7 @@ blocks:
     bus_structure: null
     coordinate: [1599, 20]
     rotation: 0
-    state: enabled
+    state: disabled
 - name: no_code
   id: variable
   parameters:
@@ -1822,7 +1822,7 @@ blocks:
   parameters:
     alias: ''
     comment: ''
-    stream_id: R0
+    stream_id: R0b
   states:
     bus_sink: false
     bus_source: false
